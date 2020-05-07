@@ -1,4 +1,4 @@
-# BigMart_Sales_DEA
+# BigMart_Sales_EDA
 
 Udacity Project - Big Mart Sales Exploratory Data Analysis
 #### Dataset - https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data
@@ -7,9 +7,10 @@ Udacity Project - Big Mart Sales Exploratory Data Analysis
 
 
 ## Introduction
-I will Explore the dataset of sales data of BigMart trying to analyze and find answers of some questions.
+I will Explore the sales dataset of of BigMart trying to analyze and find answers of some questions.
 
 ## Prerequisites:
+Following libraries are required:
 
 1) matplotlib
 2) pandas
